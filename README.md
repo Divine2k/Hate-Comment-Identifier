@@ -67,7 +67,7 @@ This project is a simple yet powerful tool designed to analyze and summarize onl
 3. **Run the Script**:
 
    ```bash
-   python comment_analysis.py
+   python main.py
    ```
 
    Follow the prompts to input your comments.
@@ -88,12 +88,6 @@ Contributions are welcome! If you have ideas, find bugs, or want to improve the 
 - Fork the repo
 - Open a pull request
 - Or just drop a comment 🙂
-
----
-
-## 📄 License
-
-MIT License.
 
 ---
 
