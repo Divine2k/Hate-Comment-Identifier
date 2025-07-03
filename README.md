@@ -1,4 +1,4 @@
-# Comment Analysis and Policy Check
+# Hate Comment Identifier
 
 This project is a simple yet powerful tool designed to analyze and summarize online comments while checking them against a predefined policy. The goal is to help identify whether a comment violates community guidelines and to provide a concise summary of its intent.
 
